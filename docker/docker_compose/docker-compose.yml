@@ -1,0 +1,56 @@
+version: "3.7"
+
+services:
+  postgres:
+    image: postgres
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: "granado-dev"
+      POSTGRES_PASSWORD: "granado#1dev"
+      POSTGRES_DB: "clinica_veterinaria"
+    networks:
+      - netgranado
+    ports:
+      - "15432:5432"
+    volumes:
+      - C:\Projetos\granado\docker\docker_compose\volumes-postgres:/var/lib/postgres
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "granado@dev.com.br"
+      PGADMIN_DEFAULT_PASSWORD: "granado#1dev"
+    volumes:
+      - C:\Projetos\granado\docker\docker_compose\volumes-postgres:/bkp
+    ports:
+      - "16543:80"
+    depends_on:
+      - postgres
+    networks:
+      - netgranado
+
+#  api:
+#    container_name: api-clinica-granado
+#    build: C:\Projetos\granado\back\granado-clinica-veterinaria\
+#    depends_on:
+#      - postgres
+#    networks:
+#      - netgranado
+#
+#  front:
+#    container_name: clinica-granado
+#    build: C:\Projetos\granado\front\granado-clinica-veterinaria\
+#    depends_on:
+#      - postgres
+#    networks:
+#      - netgranado
+
+networks:
+  netgranado:
+
+volumes:
+  postgres-volume:
+    external: true
+
