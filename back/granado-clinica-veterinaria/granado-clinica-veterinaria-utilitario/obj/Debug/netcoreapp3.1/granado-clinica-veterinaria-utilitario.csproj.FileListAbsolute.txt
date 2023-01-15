@@ -1,0 +1,10 @@
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.deps.json
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.pdb
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.AssemblyInfoInputs.cache
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.AssemblyInfo.cs
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.csproj.CoreCompileInputs.cache
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.pdb
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-utilitario\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.csproj.AssemblyReference.cache

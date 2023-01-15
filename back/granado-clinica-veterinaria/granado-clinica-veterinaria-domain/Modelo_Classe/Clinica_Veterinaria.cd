@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="granado_clinica_veterinaria_domain.Models.AgendamentoModel">
+    <Position X="3.5" Y="6.25" Width="1.75" />
+    <AssociationLine Name="Animal" Type="granado_clinica_veterinaria_domain.Models.AnimalModel">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.16" Y="0.578" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAQIAQAAAAAAAAAIAAAAAAAAIA=</HashCode>
+      <FileName>Models\AgendamentoModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Animal" />
+      <Property Name="Veterinario" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="granado_clinica_veterinaria_domain.Models.ClienteModel">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Models\ClienteModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Animals" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="granado_clinica_veterinaria_domain.Models.VeterinarioModel">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAAAAARAAAAAAQAAAAAAAAAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Models\VeterinarioModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Agendamentos" />
+      <Property Name="Atendimentos" />
+      <Property Name="VeterinarioAnimals" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="granado_clinica_veterinaria_domain.Models.AtendimentoModel">
+    <Position X="3" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAAAAAACAQIAAAAAAAAAAAIAAAAAAAAIA=</HashCode>
+      <FileName>Models\AtendimentoModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Animal" />
+      <Property Name="Veterinario" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="granado_clinica_veterinaria_domain.Models.AnimalModel">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAGAAAAAAAQAAAABCQAAAAAAEAAAAAAAEAAAGAAAA=</HashCode>
+      <FileName>Models\AnimalModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TipoAnimal" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Agendamentos" />
+      <Property Name="Atendimentos" />
+      <Property Name="VeterinarioAnimals" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="granado_clinica_veterinaria_domain.Models.TipoAnimalModel">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Models\TipoAnimalModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Animals" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="granado_clinica_veterinaria_domain.Models.VeterinarioAnimalModel">
+    <Position X="6.25" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAIAAAAAAAAAAAIAAAAAAAAIA=</HashCode>
+      <FileName>Models\VeterinarioAnimalModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Animal" />
+      <Property Name="Veterinario" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cab71133-eb74-4b6c-b37c-7181ebb42a05": {
+      "ProjectGuid": "cab71133-eb74-4b6c-b37c-7181ebb42a05",
+      "DisplayName": "granado-clinica-veterinaria-api",
+      "ColorIndex": 0
+    },
+    "12335d1c-8aca-4796-86eb-afe5ff375354": {
+      "ProjectGuid": "12335d1c-8aca-4796-86eb-afe5ff375354",
+      "DisplayName": "granado-clinica-veterinaria.model",
+      "ColorIndex": 1
+    },
+    "66f775c4-ae16-47a5-809e-0c8d4e859c09": {
+      "ProjectGuid": "66f775c4-ae16-47a5-809e-0c8d4e859c09",
+      "DisplayName": "granado-clinica-veterinaria-domain",
+      "ColorIndex": 2
+    },
+    "b701140f-708f-41e8-a35c-9eb8143b398b": {
+      "ProjectGuid": "b701140f-708f-41e8-a35c-9eb8143b398b",
+      "DisplayName": "granado-clinica-veterinaria-utilitario",
+      "ColorIndex": 3
+    },
+    "357d35c3-3df8-4004-9680-c75287369dc9": {
+      "ProjectGuid": "357d35c3-3df8-4004-9680-c75287369dc9",
+      "DisplayName": "granado-clinica-veterinaria-repositories",
+      "ColorIndex": 4
+    },
+    "16652304-e22a-4072-b500-d5fbe27d1118": {
+      "ProjectGuid": "16652304-e22a-4072-b500-d5fbe27d1118",
+      "DisplayName": "granado-clinica-veterinaria-business",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

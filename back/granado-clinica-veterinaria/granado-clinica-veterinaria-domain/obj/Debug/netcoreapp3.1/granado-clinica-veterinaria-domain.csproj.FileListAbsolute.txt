@@ -1,0 +1,16 @@
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.deps.json
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.pdb
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.pdb
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.csproj.AssemblyReference.cache
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.AssemblyInfoInputs.cache
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.AssemblyInfo.cs
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.csproj.CoreCompileInputs.cache
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.csproj.CopyComplete
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.pdb
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.runtimeconfig.json
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.runtimeconfig.dev.json
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-domain\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.genruntimeconfig.cache

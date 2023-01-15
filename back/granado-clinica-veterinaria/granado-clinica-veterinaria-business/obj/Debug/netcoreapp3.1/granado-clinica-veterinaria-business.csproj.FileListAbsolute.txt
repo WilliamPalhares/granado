@@ -1,0 +1,15 @@
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.deps.json
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.pdb
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-domain.pdb
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\bin\Debug\netcoreapp3.1\granado-clinica-veterinaria-utilitario.pdb
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.csproj.AssemblyReference.cache
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.AssemblyInfoInputs.cache
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.AssemblyInfo.cs
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.csproj.CoreCompileInputs.cache
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.csproj.CopyComplete
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.dll
+C:\Projetos\granado\back\granado-clinica-veterinaria\granado-clinica-veterinaria-business\obj\Debug\netcoreapp3.1\granado-clinica-veterinaria-business.pdb

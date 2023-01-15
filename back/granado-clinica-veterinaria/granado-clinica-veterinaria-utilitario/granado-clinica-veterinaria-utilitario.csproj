@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>granado_clinica_veterinaria_utilitario</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Caelum.Stella.CSharp" Version="1.4.7" />
+  </ItemGroup>
+
+</Project>
